@@ -1,6 +1,24 @@
 # ESP8266-Wifi-Mqtt-DistanceSensor
 A Arduino Sketch for Connecting a ESP8266-Node MCU to MQTT Broker 
 
+Components Used:
+
+ESP8266 - NODEMCU Board
+(in Arduino IDE select NodeMCU 1.0 (ESP-12E)
+
+HC-SR04 ultrasonic distance sensor
+
+Points: You need to configure the Wifi Access Credentials
+Have a Broker installed locally and update details. 
+
+Demonstration of final project can be found here: 
+
+https://www.linkedin.com/feed/update/urn:li:activity:7033361111743680512/
+
+
+
+
+Licence
 
 Copyright (c) 2011-2017 GitHub Inc.
 
